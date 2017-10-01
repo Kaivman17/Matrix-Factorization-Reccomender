@@ -1,2 +1,2 @@
 # Matrix-Factorization-Recommender
-Reccoemder system for the MovieLens dataset
+Recommender system for the MovieLens dataset
